@@ -11,7 +11,7 @@ int main() {
     scanf("%s", color);
     printf("Enter a plural noun of no more than 20 characters: ");
     scanf("%s", pluralNoun);
-    printf("Enter a celebrity of no more than 20 characters: ");
+    printf("Enter celebrity first and last name of no more than 20 characters: ");
     scanf("%s%s", celebrityFirst, celebrityLast);
 
     printf("Roses are %s\n", color);
